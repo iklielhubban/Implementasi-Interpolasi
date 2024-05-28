@@ -1,6 +1,6 @@
 # Interpolasi Polinom Lagrange dan Newton
 
-Proyek ini berisi implementasi metode interpolasi polinom Lagrange dan Newton untuk menemukan hubungan antara tegangan yang diberikan kepada baja tahan-karat dan waktu yang diperlukan hingga baja tersebut patah.
+Repositori ini berisi implementasi metode interpolasi polinom Lagrange dan Newton untuk menemukan hubungan antara tegangan yang diberikan kepada baja tahan-karat dan waktu yang diperlukan hingga baja tersebut patah.
 
 ## Data
 Data yang digunakan merupakan hasil pengukuran hubungan antara tegangan dan waktu patah:
